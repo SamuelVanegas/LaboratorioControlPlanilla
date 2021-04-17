@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\bin\Debug\LaboratorioControlPlanillas.exe.config
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\bin\Debug\LaboratorioControlPlanillas.exe
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\bin\Debug\LaboratorioControlPlanillas.pdb
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\bin\Debug\LaboratorioControlPlanillas.xml
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\obj\Debug\LaboratorioControlPlanillas.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\obj\Debug\LaboratorioControlPlanillas.Resources.resources
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\obj\Debug\LaboratorioControlPlanillas.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\obj\Debug\LaboratorioControlPlanillas.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\obj\Debug\LaboratorioControlPlanillas.exe
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\obj\Debug\LaboratorioControlPlanillas.xml
+C:\Users\USER\source\repos\LaboratorioControlPlanillas\LaboratorioControlPlanillas\obj\Debug\LaboratorioControlPlanillas.pdb
